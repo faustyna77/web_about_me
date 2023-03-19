@@ -1,0 +1,25 @@
+body{
+background-color: rgb(236, 47, 94);
+  
+}
+
+p*
+{
+    font-size:25px;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
+    
+}
+p.one
+{
+    border-style: dotted;
+    border-width: 2px;
+}
+
+h6{
+    font-style: oblique;
+    font-size: larger;
+    font-weight: bold;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-color: rgb(216, 146, 17);
+}
+
